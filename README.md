@@ -27,12 +27,13 @@ Includes data cleaning, EDA, modeling, evaluation, and business recommendations.
 
 ---
 
-## 📫 Contact  
-Feel free to connect with me:
+## 📬 Contact
 
-- **GitHub:** https://github.com/niyonzansabandi-ai  
-- **LinkedIn:** https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
-- **Portfolio Website: https://niyonzansabandi-ai.github.io/portfolio-site-/
+I'm always open to connecting — feel free to reach out!
+
+**GitHub:** https://github.com/niyonzansabandi-ai  
+**LinkedIn:** https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
+**Portfolio Website:** https://niyonzansabandi-ai.github.io/portfolio-site-/
 
 
 ---
