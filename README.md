@@ -3,7 +3,6 @@
 I'm a data analyst who uses Python, SQL, and Power BI to turn data into clear insights that support better decisions.  
 I focus on clean analysis, practical modeling, and communicating results that matter to the business.
 
-
 ---
 ## 🔧 Skills & Tools
 - **Python** (Pandas, NumPy, Scikit‑learn)
@@ -28,7 +27,7 @@ Complex SQL queries analyzing sales performance, customer behavior, and product 
 
 ### **Power BI Sales Dashboard**
 An interactive Power BI dashboard analyzing retail sales trends, top products, and regional performance.  
-👉 Repo: https://github.com/niyonzansabandi-ai/powerbi-sales-dashboard
+👉 Repo: httpsgithub.com/niyonzansabandi-ai/powerbi-sales-dashboard
 
 ---
 
@@ -36,9 +35,9 @@ An interactive Power BI dashboard analyzing retail sales trends, top products, a
 
 I'm always open to connecting.
 
-**GitHub:** https://github.com/niyonzansabandi-ai  
-**LinkedIn:** https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
-**Portfolio:** https://niyonzansabandi-ai.github.io/portfolio-site/
+**GitHub:** httpsgithub.com/niyonzansabandi-ai  
+**LinkedIn:** httpswww.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
+**Portfolio:** httpsniyonzansabandi-ai.github.io/portfolio-site/
 
 ---
 
