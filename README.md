@@ -1,40 +1,47 @@
 # Hi, I'm Simon 👋
 
-I'm a data analyst passionate about turning raw data into clear, actionable insights.  
-I enjoy working with Python, SQL, Power BI, and machine learning to solve real business problems.
+I'm a data analyst focused on turning raw data into clear, actionable insights.  
+I work with Python, SQL, and Power BI to solve real business problems through clean analysis, thoughtful modeling, and effective communication.
 
 ---
 
 ## 🔧 Skills & Tools
 - **Python** (Pandas, NumPy, Scikit‑learn)
-- **SQL**
-- **Power BI**
+- **SQL** (Data querying, joins, CTEs, window functions)
+- **Power BI** (Data modeling, DAX, interactive dashboards)
 - **Excel**
-- **Data Cleaning & Analysis**
-- **Data Visualization**
-- **Machine Learning (Classification & Prediction)**
+- **Data Cleaning & Preparation**
+- **Exploratory Data Analysis**
+- **Machine Learning** (Classification & Prediction)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Customer Churn Analysis  
-A full end‑to‑end machine learning project predicting customer churn using Python.  
-Includes data cleaning, EDA, modeling, evaluation, and business recommendations.  
-👉 Repo: https://github.com/niyonzansabandi-ai/portfolio-site-
+### **Customer Churn Analysis (Python + SQL)**
+End‑to‑end workflow analyzing customer churn using Python and SQL.  
+Includes data cleaning, EDA, feature engineering, modeling, and business recommendations.  
+👉 Repo: https://github.com/niyonzansabandi-ai/customer-churn-analysis
 
-(More projects coming soon!)
+### **Retail Sales SQL Analysis**
+Advanced SQL project analyzing sales performance, customer behavior, and product trends.  
+Focuses on joins, aggregations, CTEs, and analytical queries.  
+👉 Repo: https://github.com/niyonzansabandi-ai/retail-sales-sql-analysis
+
+### **Power BI Sales Dashboard**
+Interactive dashboard visualizing sales trends, top products, and regional performance.  
+Includes data modeling, DAX measures, and a clean business‑ready layout.  
+👉 Repo: https://github.com/niyonzansabandi-ai/powerbi-sales-dashboard
 
 ---
 
 ## 📬 Contact
 
-I'm always open to connecting — feel free to reach out!
+I'm always open to connecting.
 
 **GitHub:** https://github.com/niyonzansabandi-ai  
 **LinkedIn:** https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
-**Portfolio Website:** https://niyonzansabandi-ai.github.io/portfolio-site-/
-
+**Portfolio:** https://niyonzansabandi-ai.github.io/portfolio-site/
 
 ---
 
