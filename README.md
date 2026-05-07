@@ -2,6 +2,8 @@
 
 I'm a data analyst who uses Python, SQL, and Power BI to turn data into clear insights that support better decisions.  
 I focus on clean analysis, practical modeling, and communicating results that matter to the business.
+### 🎯 Current Focus
+Building new data projects while actively applying for Data Analyst roles.
 
 ---
 ## 🔧 Skills & Tools
