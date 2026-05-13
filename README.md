@@ -29,7 +29,7 @@ Complex SQL queries analyzing sales performance, customer behavior, and product 
 
 ### **Power BI Sales Dashboard**
 An interactive Power BI dashboard analyzing retail sales trends, top products, and regional performance.  
-👉 Repo: httpsgithub.com/niyonzansabandi-ai/powerbi-sales-dashboard
+👉 Repo: https://github.com/niyonzansabandi-ai/powerbi-sales-dashboard
 
 ---
 
