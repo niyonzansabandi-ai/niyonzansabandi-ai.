@@ -43,9 +43,9 @@ End‑to‑end retail analytics using SQL, Python, and Power BI.
 
 I'm always open to connecting.
 
-**GitHub:** httpsgithub.com/niyonzansabandi-ai  
-**LinkedIn:** httpswww.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
-**Portfolio:** httpsniyonzansabandi-ai.github.io/portfolio-site/
+**GitHub:** https://github.com/niyonzansabandi-ai  
+**LinkedIn:** https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291  
+**Portfolio:** https://niyonzansabandi-ai.github.io/portfolio-site/
 
 ---
 
